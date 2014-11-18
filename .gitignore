@@ -1,0 +1,15 @@
+build
+trunk
+PyTradeLib
+QuickieStockAndOptionsScraper
+quandl
+release-*
+*.py[oc]
+*.sw[nop]
+*~
+._*
+.DS_Store
+*.bak
+*.ipynb
+*.json
+*.csv
